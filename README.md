@@ -1,6 +1,6 @@
 # ESPVolumeControl - A simple way to control your the Volume of OpenHAB2-Items
 
-What will be created here is a Sketch that is written in the Arduino IDE for ESP8266 to control your speakers via the REST interface of OpenHAB2. The Input will be from a rotary encoder and a few buttons.
+What will be created here is a sketch that is written in the Arduino IDE for ESP8266 to control your speakers via the REST interface of OpenHAB2. The Input will be from a rotary encoder and a few buttons.
 
 Great, now why is everything so weird here?
 ---
@@ -10,10 +10,12 @@ Well since this is my first time publishing any of my work online and working wi
 
 I already have a first working version that I will improve in the next few days so I can publish it here.
 
+The purpose of this repository is not only to share my code, but also for me to learn how to use github.
+
 
 Features
 ---
-- Control Volume of speakers with rotary encoder (Or any dimmer Item in OpenHAB2)
+- Control Volume of speakers with rotary encoder (Or any dimmer item in OpenHAB2)
 
 
 What's next?
