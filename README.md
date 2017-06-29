@@ -9,3 +9,17 @@ Well since this is my first time publishing any of my work online and working wi
 
 
 I already have a first working version that I will improve in the next few days so I can publish it here.
+
+
+Features
+---
+- Control Volume of speakers with rotary encoder (Or any dimmer Item in OpenHAB2)
+
+
+What's next?
+---
+- Next/Previous Buttons
+- Play/Pause Button
+- maybe a Mute Button
+- OLED-display to display artist and track info
+- Configuration website so settings don't have to be hard coded to the device
